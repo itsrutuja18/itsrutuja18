@@ -1,16 +1,22 @@
-## Hi there 👋
+Rutuja Jaiswal
+AI/ML Engineer | GenAI | AI Agents
 
-<!--
-**itsrutuja18/itsrutuja18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building intelligent applications using LLMs, AI Agents,
+Machine Learning and full-stack technologies.
 
-Here are some ideas to get you started:
+Currently focused on:
+• AI Agents & Agentic AI
+• Generative AI & LLM Applications
+• Tool Calling & AI Workflows
+• Machine Learning
+• Full-Stack AI Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+Python • FastAPI • React • LLMs • AI Agents
+Machine Learning • SQL • Flask • Docker • Git
+
+Featured Projects
+01. BitCode AI – Autonomous AI Coding & Debugging Agent
+02. Smart Glove – Sign Detection using ML + GenAI
+03. Fitness AI – LLM-powered Fitness Platform
+04. Medicine Delivery Data Analysis
